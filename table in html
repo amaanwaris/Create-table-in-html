@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>amaan</title>
+    <link rel="stylesheet" href="sty.css">
+</head>
+<body>
+   
+
+    <table>
+        <caption>Student details</caption>
+        <thead>
+
+        <tr>
+            <th colspan="2">Name</th>
+            <th colspan="2">Class</th>
+            <th >dept</th>
+            <th >collage</th>
+            <th >roll number</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        
+        <tr>
+            <td colspan="2">amaan</td>
+            <td colspan="2">B.tech</td>
+            <td>CA & IT</td>
+            <td>Manuu</td>
+            <td>22btcs056hy</td>
+           
+        </tr>
+
+        <tr>
+            <td colspan="2">siva</td>
+            <td colspan="2">B.tech</td>
+            <td> CS & IT</td>
+            <td>Manuu</td>
+            <td>22btcs067hy</td>
+        </tr>
+        <tr>
+            <td>mohammad amaan Waris</td>
+            <td colspan="3">B.tech</td>
+            <td>CS & IT</td>
+            <td>MAnuu</td>
+            <td>22btcs004hy</td>
+           
+        </tr>
+    <tbody>
+
+        <tfoot>
+
+        </tfoot>
+    </table>
+
+
+   unorder list
+    <ul>
+        <li>amaan</li>
+        <li>waris</li>
+        <li>ok google</li>
+        <li>ok </li>
+    </ul>
+     order list
+    <ol type="A">
+        <li>amaan</li>
+        <li>waris</li>
+        <li>ok google</li>
+        <li>ok </li>
+    <ol>
+    
+    
+</body>
+</html>
